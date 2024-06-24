@@ -1,0 +1,13 @@
+.tabs li {
+    display: block;
+    padding: 10px 23px;
+    background: black;
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+.tab_content {
+    padding: 20px;
+    margin-top: 10px;
+    color: white;
+}
